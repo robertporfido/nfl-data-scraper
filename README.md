@@ -7,6 +7,6 @@ There are currently 3 components to the data aspect of this project (they are de
 2. Transforming the data from the raw schema to the working schema with some cleaning and feature engineering.
 3. Interacting with a weather API to populate the weather column in the historical game data.
 
-1. File name: nfl_data_scraper.ipynb
-2. File name: cast_raw_to_dbo_nfl_game_data.sql
-3. File name: nfl_game_weather_data.ipynb
+  1. File name: nfl_data_scraper.ipynb
+  2. File name: cast_raw_to_dbo_nfl_game_data.sql
+  3. File name: nfl_game_weather_data.ipynb
